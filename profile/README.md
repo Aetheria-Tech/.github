@@ -7,7 +7,7 @@
 
 | **역할** | **담당자** | **GitHub ID** |
 | --- | --- | --- |
-| **Project Manager (PM)** | 김김기현 | @KimKiHyun0206 |
+| **Project Manager (PM)** | 김기현 | @KimKiHyun0206 |
 | **Backend Lead** | 김기현 | @KimKiHyun0206 |
 | **Frontend Lead** | 박대진 | @PDJ-J |
 | **AI Lead** | 김성아 | @sungah-kim |
